@@ -12,8 +12,8 @@ Software engineer
 - Experience in developing embedded system (3 years)
 
 [Interests]
-- 1st: Machine learning, Big data
-- 2nd: Back-end programming
+- 1st: Back-end programming
+- 2nd: Machine learning, Big data, Search engine
 - 3rd: NLP
 
 ## Career
